@@ -1,5 +1,6 @@
 import AboutImg from "/public/MyImage.png";
 import Tag from "./Tag";
+import Resume from "/public/ashwinee.pdf";
 
 function About() {
   return (
@@ -35,8 +36,8 @@ function About() {
               with you to create something amazing!
             </p>
             <a
-              href="/public/ashwinee.pdf"
-              download
+              href={Resume}
+              download="Resume"
               className="items-center rounded-md bg-white px-4 py-3 text-sm font-medium text-secondary border-none no-underline font-poppins"
             >
               Download CV
