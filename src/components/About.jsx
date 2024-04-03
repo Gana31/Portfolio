@@ -1,4 +1,4 @@
-import AboutImg from "/public/MyImage.png";
+import AboutImg from "/public/My_Image.png";
 import Tag from "./Tag";
 import Resume from "/public/ashwinee.pdf";
 
