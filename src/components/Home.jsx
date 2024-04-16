@@ -4,6 +4,7 @@ import About from "./About";
 import Project from "./Project";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import ScrollToTopButton from "./ScrollToTopButton";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <Project />
       <Contact />
       <Footer />
+      <ScrollToTopButton />
     </div>
   );
 }
