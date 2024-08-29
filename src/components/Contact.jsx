@@ -17,10 +17,10 @@ function Contact() {
         </div>
         <div className="md:w-[60%] m-auto mt-6 text-center flex justify-center items-center flex-col gap-3">
           <h3 className="font-poppins text-lg md:text-4xl font-semibold tracking-[-0.02em] text-white flex justify-center items-center gap-2">
-            <HiOutlineMail size={40} /> ashwineek449@gmail.com
+            <HiOutlineMail size={40} /> ganeshronghe2@gmail.com
           </h3>
           <h3 className="font-poppins text-lg md:text-4xl font-semibold tracking-[-0.02em] text-white flex justify-center items-center gap-2">
-            <HiOutlinePhone size={40} /> 7978488547
+            <HiOutlinePhone size={40} /> 9096528473
           </h3>
         </div>
         <div className="mt-6 flex justify-center items-center flex-col gap-3">
@@ -28,25 +28,13 @@ function Contact() {
             You may also find me on these platforms!
           </p>
           <div className="flex gap-3">
-            <Link to={"www.linkedin.com/in/ashwinee111"} className="scale-box">
+            <Link to={"https://www.linkedin.com/in/ganesh-ronghe-857131235/"} className="scale-box">
               <FaLinkedin size={25} color="#0077b5" className="scale-child" />
             </Link>
-            <Link to={"https://github.com/Ashwinee111"} className="scale-box">
+            <Link to={"https://github.com/Gana31"} className="scale-box">
               <FaGithubSquare
                 size={25}
                 color="#d1d5db"
-                className="scale-child"
-              />
-            </Link>
-            <Link
-              to={
-                "https://www.instagram.com/_siku__08?igsh=cW00azF1bXh4anBq&utm_source=qr"
-              }
-              className="scale-box"
-            >
-              <FaInstagramSquare
-                size={25}
-                color="#e95950"
                 className="scale-child"
               />
             </Link>

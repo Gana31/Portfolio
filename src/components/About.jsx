@@ -1,6 +1,6 @@
 import AboutImg from "/public/My_Image.png";
 import Tag from "./Tag";
-import Resume from "/public/ashwinee.pdf";
+import Resume from "/public/ganesh_ronghe_9096528473.pdf";
 
 function About() {
   return (
@@ -22,18 +22,14 @@ function About() {
               Curious about me? Here you have it:
             </h2>
             <p className="text-lg font-normal font-poppins text-dimWhite mb-5">
-              Hello there! My name is Ashwinee Kumar Sethi, and I am a
-              Full-Stack Developer with specialization in HTML, CSS, JavaScript,
-              Tailwind CSS, React JS, GSAP, MongoDB, Node JS, and Express JS. I
-              have a deep passion for creating seamless digital experiences by
-              combining creativity with technical expertise. Whether it's
-              front-end development using React and Tailwind CSS or backend
-              solutions powered by MongoDB and Node.js, I always strive to bring
-              ideas to life with efficiency and innovation. I stay up-to-date
-              with the latest industry trends and continuously work on improving
-              my skills to provide high-quality solutions that exceed
-              expectations. I believe in collaboration and would love to work
-              with you to create something amazing!
+            Hello there! My name is Ganesh Ronghe, and I am a Full-Stack Developer 
+            from Chhatrapati Sambhaji Nagar, Maharashtra. I hold a Master's degree in 
+            Computer Applications (MCA) from the Government College of Engineering. 
+            During my academic journey, I completed a 6-month internship with the Alpha Developer 
+            Team LLP, where I gained valuable hands-on experience. I am passionate about leveraging 
+            my technical skills and creativity to build efficient and innovative digital solutions. 
+            Whether it's working on the front-end or the back-end, I am committed to delivering high-quality 
+            results. I believe in the power of collaboration and am eager to work with you to bring your ideas to life!
             </p>
             <a
               href={Resume}

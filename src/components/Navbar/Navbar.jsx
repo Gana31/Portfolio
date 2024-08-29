@@ -13,7 +13,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="container">
-        <div className="logo">{"<AK />"}</div>
+        <div className="logo">{"<GR />"}</div>
         <div className="menu-icon" onClick={handleShowNavbar}>
           <GiHamburgerMenu size={20} />
         </div>

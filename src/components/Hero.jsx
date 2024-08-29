@@ -18,7 +18,7 @@ function Hero() {
         <div className="md:w-[60%] flex flex-col gap-8">
           <div className="flex flex-col gap-1">
             <h1 className="text-3xl font-semibold md:font-bold md:text-5xl md:tracking-[-0.02em] lg:text-6xl lg:leading-[72px] font-poppins text-white">
-              Hi, I'm Ashwinee{" "}
+              Hi, I'm Ganesh{" "}
               <span className="inline-block animate-waving-hand">👋</span>
             </h1>
             <p className="text-lg font-normal font-poppins text-dimWhite">
@@ -30,7 +30,7 @@ function Hero() {
           <div className="flex flex-col gap-1">
             <p className="text-lg font-normal font-poppins text-dimWhite flex items-center gap-1">
               <FiMapPin />
-              Odisha, India
+              Chhatrapati Sambhaji Nagar, India
             </p>
             <p className="text-lg font-normal font-poppins text-dimWhite flex items-center gap-2">
               <span className="relative flex h-3 w-3">
@@ -42,28 +42,17 @@ function Hero() {
             </p>
           </div>
           <div className="flex gap-3">
-            <Link to={"www.linkedin.com/in/ashwinee111"} className="scale-box">
+            <Link to={"https://www.linkedin.com/in/ganesh-ronghe-857131235/"} className="scale-box">
               <FaLinkedin size={25} color="#0077b5" className="scale-child" />
             </Link>
-            <Link to={"https://github.com/Ashwinee111"} className="scale-box">
+            <Link to={"https://github.com/Gana31"} className="scale-box">
               <FaGithubSquare
                 size={25}
                 color="#d1d5db"
                 className="scale-child"
               />
             </Link>
-            <Link
-              to={
-                "https://www.instagram.com/_siku__08?igsh=cW00azF1bXh4anBq&utm_source=qr"
-              }
-              className="scale-box"
-            >
-              <FaInstagramSquare
-                size={25}
-                color="#e95950"
-                className="scale-child"
-              />
-            </Link>
+          
           </div>
         </div>
       </div>

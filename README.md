@@ -1,17 +1,8 @@
+# React + Vite
 
-# Personal Dev-Portfolio
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This repository comprises a personal development portfolio template that is simple to customize. It was built using React JS and Tailwind CSS and is both lightweight and fully responsive. The website is static and is production-ready if you simply wish to add your details and publish it. Give a ⭐ if you like this portfolio.
+Currently, two official plugins are available:
 
-## Screenshots
-
-![Ashwinee _ Full Stack Developer](https://github.com/Ashwinee111/My_Portfolio/assets/115965925/df48d7fb-c151-4002-90f7-d9c24dee7d4b)
-
-
-
-## Installation
-
-🛠 Installation and Setup Instructions
-
-- Installation: npm install
-- In the project directory, you can run: npm run dev
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

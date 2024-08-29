@@ -6,7 +6,7 @@ import React from "/public/logo/react.png";
 import Node from "/public/logo/node.png";
 import Express from "/public/logo/express.svg";
 import MongoDB from "/public/logo/mongodb.png";
-import Gsap from "/public/logo/gsap.svg";
+import redux from "../../../public/logo/redux_white.svg"
 import Git from "/public/logo/git.png";
 
 const SkillsIcon = [
@@ -18,7 +18,7 @@ const SkillsIcon = [
   { id: 6, Icon: Node, Text: "Node JS" },
   { id: 7, Icon: Express, Text: "Express JS" },
   { id: 8, Icon: MongoDB, Text: "MongoDB" },
-  { id: 9, Icon: Gsap, Text: "GSAP" },
+  { id: 9, Icon: redux, Text: "Redux" },
   { id: 10, Icon: Git, Text: "Git" },
 ];
 
