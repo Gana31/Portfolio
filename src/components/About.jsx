@@ -1,6 +1,6 @@
-import AboutImg from "/public/My_Image.png";
+import AboutImg from "/public/gibliart.png";
 import Tag from "./Tag";
-import Resume from "/public/ganesh_ronghe_9096528473.pdf";
+import Resume from "/public/GaneshRonghe.pdf";
 
 function About() {
   return (
