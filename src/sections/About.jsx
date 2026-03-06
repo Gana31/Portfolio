@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 import { fadeInUp, fadeInLeft, fadeInRight, viewportConfig } from "../animations/variants";
 import SectionHeader from "../components/SectionHeader";
 import AboutImg from "/gibliart.png";
-import Resume from "/GaneshRonghe.pdf";
+import Resume from "/GaneshRonghe2.pdf";
 
 const stats = [
     { value: "1.5+", label: "Years Experience" },
-    { value: "10+", label: "Projects Built" },
+    { value: "3+", label: "Projects Built" },
     { value: "5+", label: "Technologies" },
 ];
 

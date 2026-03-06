@@ -34,6 +34,12 @@
   --gradient-glow: radial-gradient(ellipse, rgba(99, 102, 241, 0.15) 0%, transparent 70%);
 }
 
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 /* ── Reliable Container Utilities ── */
 @layer utilities {
   .container-main {

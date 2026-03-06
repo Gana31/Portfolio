@@ -32,9 +32,11 @@ export default function Contact() {
                             <div className="w-12 h-12 rounded-xl bg-[var(--primary)]/10 flex items-center justify-center shrink-0">
                                 <HiOutlineMail className="w-6 h-6 text-[var(--accent)]" />
                             </div>
-                            <div>
+                            <div className="flex-1 min-w-0">
                                 <p className="text-xs text-[var(--text-muted)] font-inter">Email</p>
-                                <p className="text-base font-semibold text-[var(--text-primary)] font-inter">ganeshronghe2@gmail.com</p>
+                                <p className="text-[13px] min-[375px]:text-sm md:text-base font-semibold text-[var(--text-primary)] font-inter break-all sm:break-normal">
+                                    ganeshronghe2@gmail.com
+                                </p>
                             </div>
                         </a>
 
@@ -42,9 +44,11 @@ export default function Contact() {
                             <div className="w-12 h-12 rounded-xl bg-[var(--primary)]/10 flex items-center justify-center shrink-0">
                                 <HiOutlinePhone className="w-6 h-6 text-[var(--accent)]" />
                             </div>
-                            <div>
+                            <div className="flex-1 min-w-0">
                                 <p className="text-xs text-[var(--text-muted)] font-inter">Phone</p>
-                                <p className="text-base font-semibold text-[var(--text-primary)] font-inter">+91 9096528473</p>
+                                <p className="text-[13px] min-[375px]:text-sm md:text-base font-semibold text-[var(--text-primary)] font-inter">
+                                    +91 9096528473
+                                </p>
                             </div>
                         </a>
 
